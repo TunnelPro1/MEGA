@@ -1,5 +1,5 @@
-# MEGALODON PLUS 
-# BY MEGALODON SSH
+# TunnelPro mega
+# copiado por @balieiro1
 
 
 
